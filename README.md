@@ -24,4 +24,4 @@ Business context: The Open University is one of the largest universities in the 
 
 Business problem: As part of the interviewing process, you have been given an anonymized dataset and asked to compute the GPA (Grade Point Average) for all students in the October 2014 cohort and create a Tableau dashboard that includes their GPAs and demographic data.
 
-Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file. You will find four worksheets in this Excel file:
+Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file.
