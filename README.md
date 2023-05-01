@@ -20,7 +20,9 @@ Business Context: You are an analyst at the ICCT (International Council on Clean
 Analytical Context: You will be working with three Excel files that contain the raw data. The first one is "us_sales_fellow.xlsx", which contains aggregated sales figures for the US; the second one is "us_ranges_fellow.xlsx", which has data about ranges of electrical vehicles. These data files come from the US Department of Energy. The last one is "washington_evs_fellow.xlsx", which is a census of all the electric vehicles in circulation in Washington state. This census data comes from the Washington State Department of Licensing.
 
 ![alt text](https://i.gyazo.com/24b2df7a8d1a7d133a88c10adc4cad6b.png)
+Fig 1. Use of Index Match to find vehicle type of a specific model.
 ![alt text](https://i.gyazo.com/e545da6f00c1e81567a70e6ab4144e05.png)
+Fig 2. Using LEFT and RIGHT to split original data for further analysis
 </details>
 
 <details>
