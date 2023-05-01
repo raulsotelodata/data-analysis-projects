@@ -48,7 +48,7 @@ Analytical context: You will be working with a subset of the OULA dataset, which
   
   <h3>Motorcycle accidents across Texas roads</h3>
   
-Skills:
+Skills:Data Azure
 
 Business Context: Motorcycle accidents are a significant concern for businesses that operate in the transportation industry. One way to analyze this issue is by using the CRIS TxDOT database, which contains valuable data on motorcycle accidents. By analyzing this data, businesses can gain insights into the prevalence of accidents in different cities, the gender distribution of those involved in accidents, the number of people injured, the severity of those injuries, and the most common day of the week for accidents to occur. These insights can help businesses develop strategies to minimize the risk of motorcycle accidents and protect their employees and customers. Additionally, by leveraging machine learning algorithms, businesses can predict the likelihood of motorcycle accidents in 2023 and take proactive measures to prevent them. By taking a data-driven approach to motorcycle safety, businesses can reduce the risk of accidents and promote a safer transportation environment for all.
 
@@ -62,9 +62,10 @@ Analytical Context: An analysis of motorcycle accidents across Texas roads can p
   
   <h3>US Housing Market after COVID-19</h3>
   
-Skills:
+Skills: Team Leadership, Project Scope, Project Planning, Dashboard Development, Team Brainstorming, Data Gathering, Data Cleaning, Data Translation, Agile
   
 Background: COVID-19 caused a unique situation and impacted daily life as a whole. One aspect that could not have been predicted was the Housing market’s reaction to the changing landscape of the pandemic. With the increasing amount of regulations set in place by federal and local governments placed more people began to stay home. This evolution cause people to move out of city centers and thus began the demand in houses. Additionally, as work from home became more prominent it grew demand even more. However, not everyone was able to keep up with the growing demand and was left with the illusion of a dream of owning a house.
 
 Data Insights: The Housing Market can be influenced by many factors some measurable and some not. However, we can measure the impact of these unpredictable events such as COVID-19. By looking at certain factors such as the unemployment rate, housing price index (HPI), Housing Market Growth Per State, and Median House Price. We can gain an understanding on the changing landscape of the housing market and its reaction to the pandemic.
+
 </details>
