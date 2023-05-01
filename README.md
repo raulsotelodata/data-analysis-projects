@@ -1,5 +1,4 @@
 # data-analysis-projects
-[test](Raul_Sotelo_EC2_notebook.ipynb)
 ## Introduction
 
 As a data analyst, I am passionate about using data to inform and improve business decisions. I have experience working with various data analysis tools and techniques, including SQL, Excel, Python, and R. My portfolio showcases my skills in data cleaning, data visualization, statistical analysis.
@@ -19,8 +18,7 @@ Business Context: You are an analyst at the ICCT (International Council on Clean
 
 Analytical Context: You will be working with three Excel files that contain the raw data. The first one is "us_sales_fellow.xlsx", which contains aggregated sales figures for the US; the second one is "us_ranges_fellow.xlsx", which has data about ranges of electrical vehicles. These data files come from the US Department of Energy. The last one is "washington_evs_fellow.xlsx", which is a census of all the electric vehicles in circulation in Washington state. This census data comes from the Washington State Department of Licensing.
   
-Answers to exercise questions
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Answers to exercise questions](https://github.com/user/repo/blob/branch/other_file.md)
 
 ![alt text](https://i.gyazo.com/24b2df7a8d1a7d133a88c10adc4cad6b.png)
   <p>Fig. 1 Use of Index Match to find vehicle type of a specific model.</p>
