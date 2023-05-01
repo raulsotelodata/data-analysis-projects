@@ -31,12 +31,13 @@ Analytical Context: You will be working with three Excel files that contain the 
   <summary>Analyzing student grades in the Open University</summary>
 <h3>Analyzing student grades in the Open University</h3>
 Skills:Excel, formulas, Index Match, Split & Concatenate,Pivot Tables, Data translation, Interperting tables & graphs, Communication complex ideas, Cleanimg data, Tableau, Visualizations, Interactive dashboard, Communicating ideas
+  <nl></nl>
 
 <p>Business context: The Open University is one of the largest universities in the world by number of enrolled students. In recent years, it has been working on developing an analytics platform called OU Analyse to track student performance across its many programs, with the aim of reducing dropout and increasing student engagement and learning. Their analytics team is growing, and they have been actively looking to hire strong candidates. You have been shortlisted as one of them.
 
 Business problem: As part of the interviewing process, you have been given an anonymized dataset and asked to compute the GPA (Grade Point Average) for all students in the October 2014 cohort and create a Tableau dashboard that includes their GPAs and demographic data.
 
-Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file.</p>
+Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file.
 
 ![alt text](https://i.gyazo.com/0f58cb0f53e55b79ddb3821281b7a8d8.png)
 </details>
