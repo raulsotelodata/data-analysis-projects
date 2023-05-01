@@ -9,7 +9,7 @@ In my projects, I aim to provide insights and recommendations that can drive str
 Feel free to browse my repository to see my latest projects and reach out to me if you have any questions or potential collaborations.
 
 ## Contents
-<details open>
+<details>
 <summary>Understanding the alternative fuel vehicles market in the US</summary>
   <h3> Understanding the alternative fuel vehicles market in the US </h3>
 
@@ -23,7 +23,8 @@ Analytical Context: You will be working with three Excel files that contain the 
 ![alt text](https://i.gyazo.com/e545da6f00c1e81567a70e6ab4144e05.png)
 </details>
 
-<details>Analyzing student grades in the Open University</details>
+<details>
+  <summary>Analyzing student grades in the Open University</summary>
 <h3>Analyzing student grades in the Open University</h3>
 Skills:
 
@@ -32,6 +33,8 @@ Business context: The Open University is one of the largest universities in the 
 Business problem: As part of the interviewing process, you have been given an anonymized dataset and asked to compute the GPA (Grade Point Average) for all students in the October 2014 cohort and create a Tableau dashboard that includes their GPAs and demographic data.
 
 Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file.
+ 
+</details>
 
 ### Motorcycle accidents across Texas roads
 Skills:
