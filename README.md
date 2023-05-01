@@ -35,8 +35,9 @@ Business problem: As part of the interviewing process, you have been given an an
 Analytical context: You will be working with a subset of the OULA dataset, which contains demographic and assessment data for a number of UK-based students from the October 2014 cohort (coded as 2014J). The data is in the OULA.xlsx file.
  
 </details>
-
-### Motorcycle accidents across Texas roads
+<details>
+  <summary>Motorcycle accidents across Texas roads</summary>
+  <h3>Motorcycle accidents across Texas roads</h3>
 Skills:
 
 Business Context: Motorcycle accidents are a significant concern for businesses that operate in the transportation industry. One way to analyze this issue is by using the CRIS TxDOT database, which contains valuable data on motorcycle accidents. By analyzing this data, businesses can gain insights into the prevalence of accidents in different cities, the gender distribution of those involved in accidents, the number of people injured, the severity of those injuries, and the most common day of the week for accidents to occur. These insights can help businesses develop strategies to minimize the risk of motorcycle accidents and protect their employees and customers. Additionally, by leveraging machine learning algorithms, businesses can predict the likelihood of motorcycle accidents in 2023 and take proactive measures to prevent them. By taking a data-driven approach to motorcycle safety, businesses can reduce the risk of accidents and promote a safer transportation environment for all.
