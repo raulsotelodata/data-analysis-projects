@@ -7,7 +7,7 @@ In my projects, I aim to provide insights and recommendations that can drive str
 
 Feel free to browse my repository to see my latest projects and reach out to me if you have any questions or potential collaborations.
 
-## Contents
+## Projects
 Please click to expand!
 <details>
 <summary>Understanding the alternative fuel vehicles market in the US</summary>
