@@ -30,7 +30,9 @@ Analytical Context: You will be working with three Excel files that contain the 
 
 <details>
   <summary>Analyzing student grades in the Open University</summary>
+  
 <h3>Analyzing student grades in the Open University</h3>
+  
 Skills:Excel, formulas, Index Match, Split & Concatenate,Pivot Tables, Data translation, Interperting tables & graphs, Communication complex ideas, Cleanimg data, Tableau, Visualizations, Interactive dashboard, Communicating ideas
 
 <p>Business context: The Open University is one of the largest universities in the world by number of enrolled students. In recent years, it has been working on developing an analytics platform called OU Analyse to track student performance across its many programs, with the aim of reducing dropout and increasing student engagement and learning. Their analytics team is growing, and they have been actively looking to hire strong candidates. You have been shortlisted as one of them.
