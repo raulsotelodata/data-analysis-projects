@@ -13,7 +13,7 @@ Feel free to browse my repository to see my latest projects and reach out to me 
 <summary>Understanding the alternative fuel vehicles market in the US</summary>
   <h3> Understanding the alternative fuel vehicles market in the US </h3>
 
-Skills:
+Skills:Excel, formulas, Index Match, Split & Concatenate,Pivot Tables, Data translation, Interperting tables & graphs, Communication complex ideas, Cleanimg data
 
 Business Context: You are an analyst at the ICCT (International Council on Clean Transportation (https://theicct.org/mission-history)), an NGO that provides research to environmental authorities around the world. You are part of a team that is preparing a report on the alternative fuel vehicles (AFV) market in the United States, with a particular focus on the state of Washington. Business Problem. Your job is to provide a characterization of the AFV market in the US and in Washington, including data about energy efficiency of the vehicles over time, geographical distribution, etc.
 
