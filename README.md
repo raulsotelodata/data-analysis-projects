@@ -22,7 +22,7 @@ Analytical Context: You will be working with three Excel files that contain the 
 ![alt text](https://i.gyazo.com/24b2df7a8d1a7d133a88c10adc4cad6b.png)
   <p>Fig 1. Use of Index Match to find vehicle type of a specific model.</p>
 ![alt text](https://i.gyazo.com/e545da6f00c1e81567a70e6ab4144e05.png)
-Fig 2. Using LEFT and RIGHT to split original data for further analysis
+  <p>Fig 2. Using LEFT and RIGHT to split original data for further analysis.</p>
 </details>
 
 <details>
