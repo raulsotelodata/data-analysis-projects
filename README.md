@@ -55,6 +55,7 @@ Analytical Context: An analysis of motorcycle accidents across Texas roads can p
 
 <details>
   <summary>US Housing Market after COVID-19</summary>
+  <h3>US Housing Market after COVID-19</h3>
 Skills:
   
 Background: COVID-19 caused a unique situation and impacted daily life as a whole. One aspect that could not have been predicted was the Housing market’s reaction to the changing landscape of the pandemic. With the increasing amount of regulations set in place by federal and local governments placed more people began to stay home. This evolution cause people to move out of city centers and thus began the demand in houses. Additionally, as work from home became more prominent it grew demand even more. However, not everyone was able to keep up with the growing demand and was left with the illusion of a dream of owning a house.
