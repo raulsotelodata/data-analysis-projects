@@ -9,8 +9,8 @@ In my projects, I aim to provide insights and recommendations that can drive str
 Feel free to browse my repository to see my latest projects and reach out to me if you have any questions or potential collaborations.
 
 ## Contents
-
-### Understanding the alternative fuel vehicles market in the US
+<details>
+<summary> ### Understanding the alternative fuel vehicles market in the US </summary>
 Skills:
 
 Business Context: You are an analyst at the ICCT (International Council on Clean Transportation (https://theicct.org/mission-history)), an NGO that provides research to environmental authorities around the world. You are part of a team that is preparing a report on the alternative fuel vehicles (AFV) market in the United States, with a particular focus on the state of Washington. Business Problem. Your job is to provide a characterization of the AFV market in the US and in Washington, including data about energy efficiency of the vehicles over time, geographical distribution, etc.
@@ -19,6 +19,7 @@ Analytical Context: You will be working with three Excel files that contain the 
 
 ![alt text](https://i.gyazo.com/24b2df7a8d1a7d133a88c10adc4cad6b.png)
 ![alt text](https://i.gyazo.com/e545da6f00c1e81567a70e6ab4144e05.png)
+</details>
 
 ### Analyzing student grades in the Open University
 Skills:
