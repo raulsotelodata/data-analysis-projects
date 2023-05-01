@@ -11,7 +11,7 @@ Feel free to browse my repository to see my latest projects and reach out to me 
 ## Contents
 <details open>
 <summary>Understanding the alternative fuel vehicles market in the US</summary>
-  <h3> Understanding the alternative fuel vehicles market in the US </h>
+  <h3> Understanding the alternative fuel vehicles market in the US </h3>
 
 Skills:
 
