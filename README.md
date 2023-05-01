@@ -52,7 +52,8 @@ Analytical Context: An analysis of motorcycle accidents across Texas roads can p
 
 ![alt text](https://i.gyazo.com/a4df559a6aca007e42829f6fa23a52da.png)
 </details>
+
 <details>
   <summary>US Housing Market after COVID-19</summary>
-  
+  asd
 </details>
